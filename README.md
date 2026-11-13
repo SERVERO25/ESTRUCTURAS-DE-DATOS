@@ -38,4 +38,4 @@ java -cp out pruebas.PruebasAutomaticas
 | Vector | `indiceDe`, `insertar`, `invertir` |
 
 ## Autor
-(tu nombre)
+(Daniel Garcia)
